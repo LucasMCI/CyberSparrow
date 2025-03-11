@@ -58,3 +58,8 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para de
 
 Autor
 Criado por Lucas MCI. @LucasMCI
+
+
+
+
+Download EXE: https://www.mediafire.com/file/j1t1rjtj4wwbiss/CyberSparrow.rar/file
