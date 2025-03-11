@@ -1,0 +1,10 @@
+blocked_domains:
+- malware.com
+- adtracker.net
+- malicious-ads.com
+malicious_patterns:
+- <script>.*?alert\(.*?\).*?</script>
+- union\s+select
+- eval\s*\(
+- document\.cookie
+- <iframe.*?src=

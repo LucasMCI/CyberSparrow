@@ -1,0 +1,18 @@
+general:
+  download_dir: downloads
+  home_page: https://www.duckduckgo.com
+  theme: dark
+privacy:
+  block_fingerprinting: true
+  doh_enabled: true
+  doh_provider: https://dns.google/dns-query
+proxy:
+  enabled: false
+  host: 127.0.0.1
+  port: 9050
+  type: socks5
+security:
+  anonymous_mode: true
+  block_ads: true
+  block_scripts: true
+  block_trackers: true
